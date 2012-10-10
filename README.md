@@ -35,3 +35,52 @@ __Strong text__
 ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
+
+[Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
+
+    Markup :  [Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
+
+`code()`
+
+    Markup :  `code()`
+
+* Bullet list
+ * Nested bullet
+  * Sub-nested bullet etc
+* Bullet list item 2
+
+~~~
+ Markup : * Bullet list
+           * Nested bullet
+            * Sub-nested bullet etc
+          * Bullet list item 2
+~~~
+
+1. A numbered list
+ 1. A nested numbered list
+ 2. Which is numbered
+2. Which is numbered
+
+~~~
+ Markup : 1. A numbered list
+           1. A nested numbered list
+           2. Which is numbered
+          2. Which is numbered
+~~~
+
+> Blockquote
+>> Nested blockquote
+
+    Markup :  > Blockquote
+              >> Nested Blockquote
+
+_Horizontal line :_
+- - - -
+
+    Markup :  - - - -
+
+_Image with alt :_
+
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+
+    Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
