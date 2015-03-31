@@ -44,6 +44,20 @@ ___Strong emphasized text___
 
     Markup :  [Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
 
+Table, like this one :
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+```
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+```
+
 `code()`
 
     Markup :  `code()`
