@@ -28,6 +28,10 @@ _Emphasized text_
 
     Markup :  _Emphasized text_ or *Emphasized text*
 
+~~Strikethrough text~~
+
+    Markup :  ~~Strikethrough text~~
+
 __Strong text__
 
     Markup :  __Strong text__ or **Strong text**
