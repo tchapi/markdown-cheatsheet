@@ -7,9 +7,17 @@ Markdown Cheatsheet
 
     Markup :  # Heading 1 #
 
+    -OR-
+
+    Markup :  ============= (below H1 text)
+
 ## Heading 2 ##
 
     Markup :  ## Heading 2 ##
+
+    -OR-
+
+    Markup: --------------- (below H2 text)
 
 ### Heading 3 ###
 
