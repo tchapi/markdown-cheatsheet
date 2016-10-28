@@ -114,6 +114,14 @@ Content Cell  | Content Cell
           2. Which is numbered
 ~~~
 
+- [ ] An uncompleted task
+- [x] A completed task
+
+~~~
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
+~~~
+
 > Blockquote
 >> Nested blockquote
 
