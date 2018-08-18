@@ -155,6 +155,11 @@ Foldable text:
                <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
              </details>
 
+```html
+<h3>HTML</h3>
+<p> Some HTML code here </p>
+```
+
 Hotkey:
 
 <kbd>⌘F</kbd>
