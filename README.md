@@ -48,7 +48,7 @@ ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
-[Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
+[Named Link](http://www.google.fr/ "Name title") and http://www.google.fr/ or <http://example.com/>
 
     Markup :  [Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
 
