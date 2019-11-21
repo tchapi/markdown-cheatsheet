@@ -139,9 +139,9 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
-    Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+    Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
 Foldable text:
 
