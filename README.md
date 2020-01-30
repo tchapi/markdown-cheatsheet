@@ -126,6 +126,14 @@ Content Cell  | Content Cell
           - [x] A completed task
 ~~~
 
+- [ ] An uncompleted task
+    - [ ] A subtask
+
+~~~
+ Markup : - [ ] An uncompleted task
+              - [ ] A subtask
+~~~
+
 > Blockquote
 >> Nested blockquote
 
