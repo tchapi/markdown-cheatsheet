@@ -2,7 +2,6 @@ Markdown Cheatsheet
 ===================
 
 - - - - 
-
 # Heading 1 #
 
     Markup :  # Heading 1 #
@@ -104,6 +103,13 @@ Content Cell  | Content Cell
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 ~~~
 
 1. A numbered list
