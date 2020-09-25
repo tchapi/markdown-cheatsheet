@@ -1,4 +1,4 @@
-Markdown Cheatsheet
+Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
@@ -67,6 +67,20 @@ First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+```
+
+Adding a pipe `|` in a cell :
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | \|
+
+```
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  |  \| 
 ```
 
 `code()`
@@ -177,6 +191,13 @@ Foldable text:
 <h3>HTML</h3>
 <p> Some HTML code here </p>
 ```
+
+Link to a Specific Part of the page:
+
+[Go To TOP](#TOP)
+   
+    Markup : [text goes here](#section_name)
+              section_title<a name="section_name"></a>    
 
 Hotkey:
 
