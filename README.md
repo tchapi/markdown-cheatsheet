@@ -192,7 +192,7 @@ Foldable text:
 <p> Some HTML code here </p>
 ```
 
-Link to a Specific Part of the page:
+Link to a specific part of the page:
 
 [Go To TOP](#TOP)
    
