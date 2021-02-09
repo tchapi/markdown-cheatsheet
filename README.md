@@ -248,6 +248,8 @@ Emoji:
 
 #### Color text 
 
+Markup: use diff language tag to write colorful text
+
 ```diff
 - text in red color
 + text in green color
