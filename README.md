@@ -245,3 +245,15 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+
+#### Color text 
+
+    Markup: use diff language tag to write colorful text
+
+```diff
+- text in red color
++ text in green color
+! text in orange color
+# text in gray color
+@@ text in bold and purple color@@
+```
