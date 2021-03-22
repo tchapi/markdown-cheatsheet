@@ -245,3 +245,56 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+
+
+Adding Icons with links:
+
+    Markup : [<code>
+             <img alt= "alt text" width="26px" src="the/image/source">
+             </code>](insert redirect link here, which will take the user to the specify website when the icon is clicked)
+             
+             You can use a <br> tag after the above snippet to insert icons on a next line
+             
+             This is basic HTML.
+            
+You can get or embed pixel perfect free icons from [icons8.com](https://icons8.com/icons)
+
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
+[<code>
+<img alt="spring" width="26px" src="https://img.icons8.com/color/240/000000/spring-logo.png">
+</code>](https://spring.io/projects/spring-framework)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="postgresql" width="26px" src="https://img.icons8.com/color/240/000000/postgreesql.png">
+</code>](https://www.postgresql.org)
+[<code>
+<img alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png">
+</code>](https://firebase.google.com)
+[<code>
+<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png">
+</code>](https://flutter.dev)
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
