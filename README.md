@@ -173,9 +173,16 @@ Content Cell  | Content Cell | Content Cell
 
     Markup :  > Blockquote
               >> Nested Blockquote
+              
 > **Note**: This is a special quote with an icon.
 
+> **Warning**: This is a special quote with a warning icon.
+
+
     Markup :  > **Note**: This is a special quote with an icon.
+    
+              > **Warning**: This is a special quote with a warning icon.
+
 
 
 _Horizontal line :_
