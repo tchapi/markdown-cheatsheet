@@ -142,14 +142,14 @@ Content Cell  | Content Cell | Content Cell
 
 1. A numbered list
     1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
+    1. Which is numbered
+1. Which is numbered
 
 ~~~
  Markup : 1. A numbered list
               1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+              1. Which is numbered
+          1. Which is numbered
 ~~~
 
 - [ ] An uncompleted task
