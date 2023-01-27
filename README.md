@@ -245,3 +245,11 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+    
+Math Symbolls:
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+    Markup : When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+             $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
