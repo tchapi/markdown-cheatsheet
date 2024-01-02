@@ -208,26 +208,17 @@ Foldable text:
 
 Footnotes:
  _You can add footnotes to your document for additional information,like-_
-Some text[^1].
-[^1]: This is a footnote.
+`Some text[^1].
+[^1]: This is a footnote.`
 
 Superscript and Subscript:
 _You can use HTML tags for superscript and subscript._
-H~2~O (water)
-x^2^ (x squared)
+`H~2~O (water)
+x^2^ (x squared)`
 
 Math Equations:
 _Use LaTeX-style math equations for mathematical notations._
-$$ E = mc^2 $$
-
-Mermaid Diagrams:
-_Some Markdown editors support creating flowcharts, sequence diagrams, and more using the Mermaid syntax._
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+`$$ E = mc^2 $$`
  
 Link to a specific part of the page:
 
