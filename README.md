@@ -206,17 +206,17 @@ Foldable text:
 <p> Some HTML code here </p>
 ```
 
-Footnotes:
+Footnotes :
  _You can add footnotes to your document for additional information,like-_
-`Some text[^1].
-[^1]: This is a footnote.`
+Click here `[^1].
+[^1]: This is a footnote. Now return from here . `
 
-Superscript and Subscript:
+Superscript and Subscript :
 _You can use HTML tags for superscript and subscript._
 `H~2~O (water)
 x^2^ (x squared)`
 
-Math Equations:
+Math Equations :
 _Use LaTeX-style math equations for mathematical notations._
 `$$ E = mc^2 $$`
  
