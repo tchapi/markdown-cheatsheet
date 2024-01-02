@@ -208,12 +208,12 @@ Foldable text:
 
 Footnotes :
  _You can add footnotes to your document for additional information,like-_
-Click here `[^1].
+Click here `[^go to foot].
 [^1]: This is a footnote. Now return from here . `
 
 Superscript and Subscript :
 _You can use HTML tags for superscript and subscript._
-`H~2~O (water)
+`H~2~O (water) or 
 x^2^ (x squared)`
 
 Math Equations :
