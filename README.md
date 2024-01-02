@@ -208,7 +208,7 @@ Foldable text:
 
 Footnotes :
  _You can add footnotes to your document for additional information,like-_
-Click here `[^go to foot].
+Click here --> `[^1].
 [^1]: This is a footnote. Now return from here . `
 
 Superscript and Subscript :
