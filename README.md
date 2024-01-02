@@ -206,6 +206,20 @@ Foldable text:
 <p> Some HTML code here </p>
 ```
 
+Footnotes :
+ _You can add footnotes to your document for additional information,like-_
+Click here --> `[^1].
+[^1]: This is a footnote. Now return from here . `
+
+Superscript and Subscript :
+_You can use HTML tags for superscript and subscript._
+`H~2~O (water) or 
+x^2^ (x squared)`
+
+Math Equations :
+_Use LaTeX-style math equations for mathematical notations._
+`$$ E = mc^2 $$`
+ 
 Link to a specific part of the page:
 
 [Go To TOP](#TOP)
@@ -242,6 +256,9 @@ Hotkey list:
 
 Emoji:
 
+
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+ 
+
